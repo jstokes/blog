@@ -1,4 +1,5 @@
 (ns blog.server
+  (:use blog.helpers)
   (:require [noir.server :as server]))
 
 (server/load-views "src/blog/views/")
