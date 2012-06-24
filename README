@@ -1,2 +1,5 @@
-**This is a small application that I want to deploy to Heroku for a basic implementation of a blog in Clojure/clojurescript
+Clojure-Blog
+============
+
+This is a small application that I want to deploy to Heroku for a basic implementation of a blog in Clojure/clojurescript
 
