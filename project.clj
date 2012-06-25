@@ -12,4 +12,7 @@
                  [fluentsoftware/cljs-binding "1.0.0-SNAPSHOT"]
                  [com.novemberain/monger "1.0.0-beta8"]
                  [fluentsoftware/cljs-binding "1.0.0-SNAPSHOT"]]
+  :dev-dependencies [[com.stuartsierra/lazytest "2.0.0-SNAPSHOT"]]
+  :repositories {"stuartsierra-releases" "http://stuartsierra.com/maven2"
+	             	 "stuartsierra-snapshots" "http://stuartsierra.com/m2snapshots"}
   :main blog.server)
